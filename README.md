@@ -139,3 +139,6 @@ This scaffold includes a comprehensive set of modern web development tools:
 ---
 
 Built with ❤️ for the developer community. Supercharged by [Z.ai](https://chat.z.ai) 🚀
+
+![Netlify Status](https://api.netlify.com/api/v1/badges/a67fb44a-16ef-40a4-aaef-143c1c6d6ca9/deploy-status)
+
